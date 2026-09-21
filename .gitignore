@@ -1,0 +1,18 @@
+# Secrets / API keys
+.env
+.env.*
+*.key
+*.pem
+secrets.json
+credentials.json
+
+# Insurance claim PDFs (do not commit)
+insurance_claims/*.pdf
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
