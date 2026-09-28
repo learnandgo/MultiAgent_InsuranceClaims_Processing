@@ -5,6 +5,7 @@
 *.pem
 secrets.json
 credentials.json
+*.toml
 
 # Insurance claim PDFs (do not commit)
 insurance_claims/*.pdf
